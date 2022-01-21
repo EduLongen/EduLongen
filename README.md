@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello there 👋
 
-<!--
-**EduLongen/EduLongen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Eduardo.
 
-Here are some ideas to get you started:
+🧠 I'm currently learning Ruby.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏡 [website][website] **|** 
+🐦 [twitter][twitter] **|** 
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin] **|**
+📝 [curriculum vitae][curriculum vitae]
+
+[website]: https://eduardolongen.com
+[twitter]: https://twitter.com/dulongen
+[instagram]: https://instagram.com/duhcorrea
+[linkedin]: https://linkedin.com/in/eduardolongencorrêa
+[curriculum vitae]: https://read.cv/eduardolongen
