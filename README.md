@@ -10,7 +10,7 @@ I'm Eduardo.
 👔 [linkedin][linkedin] **|**
 📝 [curriculum vitae][curriculum vitae]
 
-[website]: https://eduardolongen.com
+[website]: https://edulongen.github.io/Elc/
 [twitter]: https://twitter.com/dulongen
 [instagram]: https://instagram.com/duhcorrea
 [linkedin]: https://linkedin.com/in/eduardolongencorrêa
