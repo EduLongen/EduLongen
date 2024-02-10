@@ -2,11 +2,11 @@
 
 🧠 I'm currently learning Ruby.
 
-🏡 [website][website] <br/>
-🐦 [twitter][twitter] <br/>
-📷 [instagram][instagram] <br/>
-👔 [linkedin][linkedin] <br/>
-📝 [curriculum vitae][curriculum vitae]
+🏡  [website][website] <br/>
+🐦  [twitter][twitter] <br/>
+📷  [instagram][instagram] <br/>
+👔  [linkedin][linkedin] <br/>
+📝  [curriculum vitae][curriculum vitae]
 
 [website]: https://edulongen.github.io/Elc/
 [twitter]: https://twitter.com/dulongen
