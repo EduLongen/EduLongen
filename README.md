@@ -2,10 +2,10 @@
 
 🧠 I'm currently learning Ruby.
 
-🏡 [website][website] **  ** 
-🐦 [twitter][twitter] **  ** 
-📷 [instagram][instagram] **  ** 
-👔 [linkedin][linkedin] **  **
+🏡 [website][website] 
+🐦 [twitter][twitter] 
+📷 [instagram][instagram] 
+👔 [linkedin][linkedin] 
 📝 [curriculum vitae][curriculum vitae]
 
 [website]: https://edulongen.github.io/Elc/
@@ -26,6 +26,8 @@
 <code><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" height="40"/></code>
 <code><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" height="40"/></code>
 <code><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30" height="40"/></code>
+
+<br/>
 
 <div>
 <a href="https://github.com/EduLongen">
