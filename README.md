@@ -2,10 +2,10 @@
 
 🧠 I'm currently learning Ruby.
 
-🏡  [website][website] <br/>
-🐦  [twitter][twitter] <br/>
-📷  [instagram][instagram] <br/>
-👔  [linkedin][linkedin] <br/>
+🏡  [website][website] ⏤
+🐦  [twitter][twitter] ⏤
+📷  [instagram][instagram] ⏤
+👔  [linkedin][linkedin] ⏤
 📝  [curriculum vitae][curriculum vitae]
 
 [website]: https://edulongen.github.io/Elc/
@@ -13,14 +13,13 @@
 [instagram]: https://instagram.com/duhcorrea
 [linkedin]: https://linkedin.com/in/eduardolongencorrêa
 [curriculum vitae]: https://read.cv/eduardolongen
-<br/>
+
 <div>
 <a href="https://github.com/EduLongen">
 <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduLongen&layout=compact&langs_count=6&theme=github_dark"/>
 </div>
 
-### Languages and Tools:
-<div style = display flex; margin-bottom=10px; >
+<div style="display: inline_block"><br>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
 <code><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="40"/></code>
 <code><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" width="30" height="40"/></code>
@@ -31,3 +30,4 @@
 <code><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" height="40"/></code>
 <code><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" height="40"/></code>
 <code><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30" height="40"/></code>
+</div>
