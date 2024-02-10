@@ -6,8 +6,7 @@
 🐦 [twitter][twitter] <br/>
 📷 [instagram][instagram] <br/>
 👔 [linkedin][linkedin] <br/>
-📝 [curriculum vitae][curriculum vitae] <br/>
-
+📝 [curriculum vitae][curriculum vitae]
 [website]: https://edulongen.github.io/Elc/
 [twitter]: https://twitter.com/dulongen
 [instagram]: https://instagram.com/duhcorrea
@@ -26,9 +25,7 @@
 <code><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" height="40"/></code>
 <code><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" height="40"/></code>
 <code><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30" height="40"/></code>
-
-<br/><br/
-
+<br/><br/>
 <div>
 <a href="https://github.com/EduLongen">
 <img loading="lazy" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduLongen&layout=compact&langs_count=7&theme=dracula"/>
