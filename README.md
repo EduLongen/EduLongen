@@ -29,5 +29,5 @@
 <br/><br/>
 <div>
 <a href="https://github.com/EduLongen">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduLongen&layout=compact&langs_count=6&theme=dracula"/>
+<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduLongen&layout=compact&langs_count=6&theme=dracula"/>
 </div>
