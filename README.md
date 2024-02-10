@@ -13,9 +13,7 @@
 [instagram]: https://instagram.com/duhcorrea
 [linkedin]: https://linkedin.com/in/eduardolongencorrêa
 [curriculum vitae]: https://read.cv/eduardolongen
-
 <br/>
-
 ### languages and tools:
 <div style = display flex; margin-bottom=10px; >
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
@@ -29,7 +27,7 @@
 <code><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" height="40"/></code>
 <code><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30" height="40"/></code>
 
-<br/><br/><br/>
+<br/><br/
 
 <div>
 <a href="https://github.com/EduLongen">
