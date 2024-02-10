@@ -2,18 +2,6 @@
 
 🧠 I'm currently learning Ruby.
 
-🏡  [website][website] ⏤
-🐦  [twitter][twitter] ⏤
-📷  [instagram][instagram] ⏤
-👔  [linkedin][linkedin] ⏤
-📝  [curriculum vitae][curriculum vitae]
-
-[website]: https://edulongen.github.io/Elc/
-[twitter]: https://twitter.com/dulongen
-[instagram]: https://instagram.com/duhcorrea
-[linkedin]: https://linkedin.com/in/eduardolongencorrêa
-[curriculum vitae]: https://read.cv/eduardolongen
-
 <div>
 <a href="https://github.com/EduLongen">
 <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduLongen&layout=compact&langs_count=6&theme=github_dark"/>
@@ -35,4 +23,14 @@
 
 ##
 
-[website](https://img.shields.io/badge/website-blue?style=flat&link=https%3A%2F%2Fedulongen.github.io%2FElc%2F)
+🏡  [website][website] 
+🐦  [twitter][twitter] 
+📷  [instagram][instagram] 
+👔  [linkedin][linkedin] 
+📝  [curriculum vitae][curriculum vitae]
+
+[website]: https://edulongen.github.io/Elc/
+[twitter]: https://twitter.com/dulongen
+[instagram]: https://instagram.com/duhcorrea
+[linkedin]: https://linkedin.com/in/eduardolongencorrêa
+[curriculum vitae]: https://read.cv/eduardolongen
