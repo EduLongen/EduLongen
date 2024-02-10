@@ -13,12 +13,11 @@
 [instagram]: https://instagram.com/duhcorrea
 [linkedin]: https://linkedin.com/in/eduardolongencorrêa
 [curriculum vitae]: https://read.cv/eduardolongen
-
+<br/>
 <div>
 <a href="https://github.com/EduLongen">
 <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduLongen&layout=compact&langs_count=6&theme=github_dark"/>
 </div>
-<br/>
 
 ### Languages and Tools:
 <div style = display flex; margin-bottom=10px; >
