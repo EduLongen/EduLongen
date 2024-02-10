@@ -14,7 +14,13 @@
 [linkedin]: https://linkedin.com/in/eduardolongencorrêa
 [curriculum vitae]: https://read.cv/eduardolongen
 
-### languages and tools:
+<div>
+<a href="https://github.com/EduLongen">
+<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduLongen&layout=compact&langs_count=6&theme=github_dark"/>
+</div>
+<br/>
+
+### Languages and Tools:
 <div style = display flex; margin-bottom=10px; >
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
 <code><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="40"/></code>
@@ -26,8 +32,3 @@
 <code><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" height="40"/></code>
 <code><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" height="40"/></code>
 <code><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30" height="40"/></code>
-<br/><br/>
-<div>
-<a href="https://github.com/EduLongen">
-<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduLongen&layout=compact&langs_count=6&theme=dracula"/>
-</div>
