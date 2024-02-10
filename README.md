@@ -7,6 +7,7 @@
 📷 [instagram][instagram] <br/>
 👔 [linkedin][linkedin] <br/>
 📝 [curriculum vitae][curriculum vitae]
+
 [website]: https://edulongen.github.io/Elc/
 [twitter]: https://twitter.com/dulongen
 [instagram]: https://instagram.com/duhcorrea
